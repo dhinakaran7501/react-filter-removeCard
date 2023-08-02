@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-filter-removeCard/static/css/main.81c7be99.css",
+    "main.js": "/react-filter-removeCard/static/js/main.940401ae.js",
+    "static/media/bootstrap-icons.woff?": "/react-filter-removeCard/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-filter-removeCard/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/download.png": "/react-filter-removeCard/static/media/download.403c20eef2c9102591c1.png",
+    "index.html": "/react-filter-removeCard/index.html",
+    "main.81c7be99.css.map": "/react-filter-removeCard/static/css/main.81c7be99.css.map",
+    "main.940401ae.js.map": "/react-filter-removeCard/static/js/main.940401ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81c7be99.css",
+    "static/js/main.940401ae.js"
+  ]
+}
