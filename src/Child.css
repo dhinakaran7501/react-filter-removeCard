@@ -1,0 +1,67 @@
+.App {
+  display: flex;
+  margin: 20px 46px;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.card {
+  border: 1px solid black;
+  width: 498px;
+  padding: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row !important;
+  align-items: center;
+  justify-content: space-evenly;
+}
+button {
+  height: max-content;
+}
+.card .card-update-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card .card-update-btn1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.stockColor {
+  color: red;
+  font-weight: 900;
+}
+img {
+  width: 39%;
+  object-fit: contain;
+}
+.navbar-brand > i {
+  font-size: 24px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nav-link {
+  color: white !important;
+  font-weight: 600 !important;
+}
+.nav-link:hover {
+  color: black !important;
+}
+/* input{
+    width: 550px !important;
+} */
+.rateColor {
+  color: green;
+  font-weight: 900;
+}
+
+.checkbox {
+  margin-left: 5px;
+}
+label {
+    color: white;
+    margin-left: 5px;
+    font-weight: 600;
+}
